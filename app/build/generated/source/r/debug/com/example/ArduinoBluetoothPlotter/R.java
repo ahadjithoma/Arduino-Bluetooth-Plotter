@@ -29,7 +29,7 @@ public final class R {
         public static final int Graph=0x7f090001;
         public static final int LL2=0x7f090002;
         public static final int LLX=0x7f09000f;
-        public static final int action_settings=0x7f090016;
+        public static final int action_settings=0x7f090017;
         public static final int bConnect=0x7f090004;
         public static final int bDisconnect=0x7f090005;
         public static final int bXminus=0x7f090009;
@@ -37,6 +37,7 @@ public final class R {
         public static final int bYminus=0x7f09000d;
         public static final int bYplus=0x7f09000e;
         public static final int bg=0x7f090000;
+        public static final int button=0x7f090016;
         public static final int connecting=0x7f090014;
         public static final int infoText=0x7f090015;
         public static final int paired_devices=0x7f090013;

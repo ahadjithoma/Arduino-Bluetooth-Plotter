@@ -16,15 +16,17 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.AdapterView.OnItemClickListener;
 
+import static android.R.attr.button;
 
-public class DeviceListActivity extends Activity {
+
+public class DeviceListActivity extends Activity implements View.OnClickListener {
     // Debugging for LOGCAT
     private static final String TAG = "DeviceListActivity";
     private static final boolean D = true;
 
   
     // declare button for launching website and textview for connection status
-    Button tlbutton;
+    Button btn;
     TextView textView1;
     
     // EXTRA string to send on to mainactivity
@@ -34,10 +36,14 @@ public class DeviceListActivity extends Activity {
     private BluetoothAdapter mBtAdapter;
     private ArrayAdapter<String> mPairedDevicesArrayAdapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.device_list);
+        btn = (Button) findViewById(R.id.button);
+        btn.setOnClickListener(this);
+
     }
     
     @Override
@@ -109,4 +115,9 @@ public class DeviceListActivity extends Activity {
             }
           }
         }
+
+    @Override
+    public void onClick(View v) {
+        //Intent i = new
+    }
 }

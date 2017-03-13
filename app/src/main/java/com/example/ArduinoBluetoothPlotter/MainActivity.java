@@ -193,7 +193,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
         Toast.makeText(this, "Double click BACK to exit", Toast.LENGTH_SHORT).show();
 
         new Handler().postDelayed(new Runnable() {
-
             @Override
             public void run() {
                 doubleBackToExitPressedOnce = false;

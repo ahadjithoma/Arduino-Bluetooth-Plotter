@@ -16,10 +16,8 @@ android:orientation="vertical"
     />
     <ListView android:id="@+id/paired_devices"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:stackFromBottom="false"
-        android:layout_weight="1"
-    />
+        android:layout_height="350dp"
+        android:stackFromBottom="false" />
 
     <TextView
         android:id="@+id/connecting"
@@ -40,5 +38,11 @@ android:orientation="vertical"
         android:gravity="center">
 
     </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
 
 </LinearLayout>
