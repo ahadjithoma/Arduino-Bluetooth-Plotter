@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_1531888fc8c1688b45f913019041c9f1694d3ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="707e71892c6b29b9f9e8c2c0b414c19e264b845e">
+        <dex dex="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41310fad4482bb4b82feef96fd51334778d79844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\libs\GraphView-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e187192858ff7a5ff7864d6f6a754427e6cb3a87">
+        <dex dex="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-3.0_ee3bc042231844dd2a8d894f453439ec7cf8f4b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="989634b72e7e913f081a1cd7c9f1182d39be09db">
+        <dex dex="C:\Users\andre\Desktop\emg\Arduino Bluetooth Plotter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ae21d872049cdf001ad62ebb1b2b4862d6588ae\classes.dex" />
+    </item>
+
+</items>

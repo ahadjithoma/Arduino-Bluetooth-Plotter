@@ -1,0 +1,7 @@
+#Mon Mar 06 17:59:16 EET 2017
+base.0=C\:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41310fad4482bb4b82feef96fd51334778d79844
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ae21d872049cdf001ad62ebb1b2b4862d6588ae\\classes.dex
+base.1=C\:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ae21d872049cdf001ad62ebb1b2b4862d6588ae
+file.0=C\:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41310fad4482bb4b82feef96fd51334778d79844\\classes.dex
