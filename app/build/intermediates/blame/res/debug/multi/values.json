@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 130
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 170
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 211
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 251
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 291
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 405
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 458
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 521
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 574
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 642
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -240,7 +240,7 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -261,7 +261,7 @@
                     "endOffset": 1087
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

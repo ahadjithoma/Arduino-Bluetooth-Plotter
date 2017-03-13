@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 181
                 },
                 "from": {
-                    "file": "C:\\Users\\andre\\Desktop\\emg\\Arduino Bluetooth Plotter\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "C:\\Users\\andre\\Documents\\GitHub\\Arduino-Bluetooth-Plotter\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
